@@ -1,3 +1,4 @@
+package Sunday11Java;
 class Solution{
     static int evenlyDivides(int N){
         // code here
